@@ -1,0 +1,4 @@
+build/Release/Cygwin_4.x-Windows/tests/tests/newsimpletest.o: \
+ tests/newsimpletest.c list.h
+
+list.h:
